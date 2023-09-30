@@ -33,7 +33,7 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
 
 
 Localização do desafio:
-(https://github.com/rittiele/PequenoSistemaValidacaoProcessoSeletivo/blob/main/ControleCandidatos/src/candidatura/contador/Contador.java)
+[Contador](https://github.com/rittiele/PequenoSistemaValidacaoProcessoSeletivo/blob/main/ControleCandidatos/src/candidatura/contador/Contador.java)
 <br>
 
 ##
